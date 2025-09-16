@@ -9,15 +9,13 @@ Welcome to the workshop on practical use of GitHub Copilot in agent mode!
 
 ---
 
-# About Me: Wouter Fennis
+# About me: Wouter Fennis
 
-Hi, I'm Wouter Fennis — Software Engineer and Scrum Master.
+Software Engineer and Scrum Master.
 
-- Microsoft-oriented developer with a passion for programming (C#),
+- Microsoft-oriented developer with a passion for programming,
 CI/CD, and architecture
-- Experienced Scrum Master working with multiple teams
-- Dedicated to continuous learning and professional certification
-- Blogger at [woutercompiles.it](https://www.woutercompiles.it) sharing insights on software engineering, agile practices, and technology
+- Blog: [woutercompiles.it](https://www.woutercompiles.it)
 
 ---
 
@@ -64,6 +62,10 @@ I'm a consultant at Info Support in Veenendaal.
 - Project-specific conventions
 - Code quality standards
 - AI-driven code review and refactoring
+
+---
+
+Prerequisites
 
 ---
 # The labs
