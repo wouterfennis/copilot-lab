@@ -13,7 +13,8 @@ Welcome to the workshop on practical use of GitHub Copilot in agent mode!
 
 Hi, I'm Wouter Fennis — Software Engineer and Scrum Master.
 
-- Microsoft-oriented developer with a passion for programming, CI/CD, and architecture
+- Microsoft-oriented developer with a passion for programming (C#),
+CI/CD, and architecture
 - Experienced Scrum Master working with multiple teams
 - Dedicated to continuous learning and professional certification
 - Blogger at [woutercompiles.it](https://www.woutercompiles.it) sharing insights on software engineering, agile practices, and technology
@@ -36,14 +37,16 @@ I'm a consultant at Info Support in Veenendaal.
 
 ---
 
-## Goals
+# Goals
+
 - Understand how instruction files guide AI agents to align code with project/company standards
 - Learn to leverage Copilot for maintaining code quality
 - Practice writing and refining instruction files
 
 ---
 
-## Agenda
+# Agenda
+
 1. Introduction to Copilot agent mode
 2. The role of instruction files
 3. Hands-on labs: applying and customizing instructions
@@ -51,11 +54,21 @@ I'm a consultant at Info Support in Veenendaal.
 
 ---
 
+![GitHub Copilot](./images/copilot.webp)
+
+---
+
 ## Key Concepts
+
 - Instruction files: `.github/copilot-instructions.md`, `AGENT.md`, etc.
 - Project-specific conventions
 - Code quality standards
 - AI-driven code review and refactoring
+
+---
+# The labs
+
+<img src="./images/help.gif" alt="Saxo" height="500">
 
 ---
 
