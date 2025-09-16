@@ -18,22 +18,21 @@ Hi, I'm Wouter Fennis — Software Engineer and Scrum Master.
 - Dedicated to continuous learning and professional certification
 - Blogger at [woutercompiles.it](https://www.woutercompiles.it) sharing insights on software engineering, agile practices, and technology
 
-Connect with me on [LinkedIn](https://www.linkedin.com/in/wouter-fennis/)
-
 ---
 
 # My work: Info Support
 
 I'm a consultant at Info Support in Veenendaal.
 
-<!-- Images collage -->
-<div style="display: flex; justify-content: center; align-items: center; gap: 2em;">
-  <img src="./images/movir.webp" alt="Movir" height="80">
-  <img src="./images/alfam.png" alt="Alfam" height="80">
+- Started as a student
+- .NET minor
+- 2017
+
   <img src="./images/info%20support.webp" alt="Info Support" height="80">
-  <img src="./images/logo-nn.png" alt="NN" height="80">
-  <img src="./images/saxo.png" alt="Saxo" height="80">
-</div>
+
+|   <img src="./images/movir.webp" alt="Movir" height="80"> |   <img src="./images/alfam.png" alt="Alfam" height="80"> |
+|:---:|:---:|
+|   <img src="./images/nn.png" alt="NN" height="80"> |   <img src="./images/saxo.png" alt="Saxo" height="80"> |
 
 ---
 
