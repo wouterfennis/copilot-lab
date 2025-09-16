@@ -1,3 +1,7 @@
+---
+marp: true
+---
+
 # Workshop Introduction: Using GitHub Copilot for Code Quality
 
 Welcome to the workshop on practical use of GitHub Copilot in agent mode!

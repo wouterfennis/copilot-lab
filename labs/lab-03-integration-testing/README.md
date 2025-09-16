@@ -1,3 +1,7 @@
+---
+marp: true
+---
+
 # Lab 03: Integration Testing and Quality Gates
 
 This lab demonstrates how Copilot agent mode can help enforce integration testing and quality gates.

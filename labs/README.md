@@ -1,3 +1,7 @@
+---
+marp: true
+---
+
 # Labs Overview
 
 This folder contains example projects ("labs") for hands-on practice with GitHub Copilot agent mode and instruction files.

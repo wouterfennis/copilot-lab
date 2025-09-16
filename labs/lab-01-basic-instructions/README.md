@@ -1,3 +1,7 @@
+---
+marp: true
+---
+
 # Lab 01: Basic Copilot Instructions
 
 This lab demonstrates how a simple instruction file can guide Copilot to improve code quality.

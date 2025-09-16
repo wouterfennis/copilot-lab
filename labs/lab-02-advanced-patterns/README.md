@@ -1,3 +1,7 @@
+---
+marp: true
+---
+
 # Lab 02: Advanced Patterns and Refactoring
 
 This lab focuses on enforcing advanced code quality patterns and refactoring techniques using Copilot agent mode.
