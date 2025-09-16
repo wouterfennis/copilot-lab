@@ -1,9 +1,13 @@
+---
 marp: true
+---
 
 # Workshop Introduction: Using GitHub Copilot for Code Quality
 
 Enjoy the workshop!
 Welcome to the workshop on practical use of GitHub Copilot in agent mode!
+
+---
 
 # About Me: Wouter Fennis
 
@@ -22,7 +26,14 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/wouter-fennis/)
 
 I'm a consultant at Info Support in Veenendaal.
 
-
+<!-- Images collage -->
+<div style="display: flex; justify-content: center; align-items: center; gap: 2em;">
+  <img src="./images/movir.webp" alt="Movir" height="80">
+  <img src="./images/alfam.png" alt="Alfam" height="80">
+  <img src="./images/info%20support.webp" alt="Info Support" height="80">
+  <img src="./images/logo-nn.png" alt="NN" height="80">
+  <img src="./images/saxo.png" alt="Saxo" height="80">
+</div>
 
 ---
 
