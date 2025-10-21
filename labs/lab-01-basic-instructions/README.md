@@ -1,15 +1,13 @@
----
-marp: true
----
-
 # Lab 01: Basic Copilot Instructions
 
 This lab demonstrates how a simple instruction file can guide Copilot to improve code quality.
 
 ## Scenario
+
 You are given a small codebase with inconsistent formatting and missing documentation. The project uses a custom instruction file to enforce standards.
 
 ## Assignment
+
 1. Review the provided `.github/copilot-instructions.md`.
 2. Use Copilot agent mode to:
    - Refactor code to match the documented standards
@@ -19,6 +17,7 @@ You are given a small codebase with inconsistent formatting and missing document
 4. Reflect: How did the instructions affect Copilot's suggestions?
 
 ## Files
+
 - `src/` — Example code with quality issues
 - `.github/copilot-instructions.md` — Project instructions for Copilot
 

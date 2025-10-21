@@ -9,7 +9,7 @@ Welcome to the workshop on practical use of GitHub Copilot in agent mode!
 
 ---
 
-# About me: Wouter Fennis
+## About me: Wouter Fennis
 
 Software Engineer and Scrum Master.
 
@@ -19,7 +19,7 @@ CI/CD, and architecture
 
 ---
 
-# My work: Info Support
+## My work: Info Support
 
 I'm a consultant at Info Support in Veenendaal.
 
@@ -35,20 +35,21 @@ I'm a consultant at Info Support in Veenendaal.
 
 ---
 
-# Goals
+## Goals
 
-- Understand how instruction files guide AI agents to align code with project/company standards
+- Understand how 'context' guide AI agents to align code with project/company standards
 - Learn to leverage Copilot for maintaining code quality
-- Practice writing and refining instruction files
+- Practice writing and refining prompts, instruction files, README files
 
 ---
 
-# Agenda
+## Agenda
 
 1. Introduction to Copilot agent mode
-2. The role of instruction files
+2. What is 'context', why does it matter?
 3. Hands-on labs: applying and customizing instructions
 4. Assignments: improving code quality with Copilot
+5. Securing standards for other teammembers/colleagues
 
 ---
 
@@ -56,16 +57,26 @@ I'm a consultant at Info Support in Veenendaal.
 
 ---
 
-## Key Concepts
+## Context
 
 - Instruction files: `.github/copilot-instructions.md`, `AGENT.md`, etc.
 - Project-specific conventions
+  - `.editorconfig`
+  - `README.md`
+  - `mermaid.md`
 - Code quality standards
+  - `https://rules.sonarsource.com/csharp/`
+  - `Roslyn Analyzers`
 - AI-driven code review and refactoring
+  - "Assign to CoPilot"
 
 ---
 
-Prerequisites
+## Prerequisites
+
+- Visual Studio Code
+- Github Copilot (chat) Extension
+- Language specific extensions
 
 ---
 # The labs
