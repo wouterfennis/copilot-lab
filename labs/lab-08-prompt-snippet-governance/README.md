@@ -14,6 +14,13 @@ Your team has accumulated ad-hoc prompt snippets. Some are redundant, some outda
 4. Apply lifecycle metadata.
 5. Reflect on impact.
 
+## Prerequisites
+
+- Using prompt snippets in your IDE/editor
+- Maintaining shared team artifacts
+- Reading JSON snippet files
+- Exposure to plan-first and test-first prompts (helpful)
+
 ## Definitions
 
 - Active: Clear, tested, aligned with current instructions.

@@ -14,6 +14,13 @@ You need a module that parses a small task list format and outputs structured ob
 4. Only then generate the code.
 5. Capture reflection.
 
+## Prerequisites
+
+- Designing small parsing functions
+- Basic collection handling in chosen language
+- Identifying edge cases (empty, malformed, duplicates)
+- Prior completion of at least one earlier lab (recommended)
+
 ## Task Format Spec
 
 Each line: `ID|Title|Priority|Tags` (tags semicolon-separated)

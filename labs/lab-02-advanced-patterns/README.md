@@ -6,6 +6,15 @@ This lab focuses on enforcing advanced code quality patterns and refactoring tec
 
 You are given a codebase with duplicated logic, missing error handling, and inconsistent use of classes. The instruction file documents advanced patterns and refactoring rules.
 
+## Prerequisites
+
+Recommended background before starting:
+
+- Lab 01 completed or equivalent familiarity with instruction-driven refactoring
+- Intermediate understanding of the target language used in this lab
+- Awareness of common refactoring concepts (extraction, DRY, single responsibility)
+- Basic unit testing knowledge
+
 ## Assignment
 
 1. Review `.github/copilot-instructions.md` for advanced standards.

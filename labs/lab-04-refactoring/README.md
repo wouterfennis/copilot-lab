@@ -13,6 +13,13 @@ A PowerShell script contains repeated blocks that manipulate strings and write o
 - Introduce a helper function
 - Add simple tests (optional stretch)
 
+## Prerequisites
+
+- Basic PowerShell scripting (functions, parameters)
+- Ability to run a PowerShell script locally
+- Awareness of DRY (Don't Repeat Yourself) principle
+- Optional: Familiarity with Pester for testing
+
 ## Steps
 
 1. Open the script in `src/duplicated_logic.ps1`.

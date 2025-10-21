@@ -10,6 +10,13 @@ Experience how GitHub Copilot reacts when multiple project artifacts express con
 - Architecture diagram (Y): Suggests layered OO design with services, repositories, and stateful caching.
 - Existing code (Z): Implements a hybrid approach with static mutable cache and partial functional helpers.
 
+## Prerequisites
+
+- Functional vs object-oriented design concepts
+- Ability to read C# code
+- Basic caching patterns and tradeoffs
+- Reading simple architecture diagrams (Mermaid helpful but not required)
+
 ## Your Task
 
 Use Copilot Chat to:

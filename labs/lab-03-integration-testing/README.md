@@ -6,6 +6,15 @@ This lab demonstrates how Copilot agent mode can help enforce integration testin
 
 You are given a multi-module codebase with missing or incomplete integration tests. The instruction file documents testing standards and quality gate requirements.
 
+## Prerequisites
+
+You should be comfortable with:
+
+- Difference between unit and integration tests
+- Running a test framework (e.g., xUnit, pytest, Pester)
+- Basic linting / formatting tools
+- Reading simple CI output (optional)
+
 ## Assignment
 
 1. Review `.github/copilot-instructions.md` for testing and quality gate standards.

@@ -6,6 +6,17 @@ This lab demonstrates how a simple instruction file can guide Copilot to improve
 
 You are given a small codebase with inconsistent formatting and missing documentation. The project uses a custom instruction file to enforce standards.
 
+## Prerequisites
+
+Before starting this lab you should be comfortable with:
+
+- Basic Git workflow (clone, commit, diff)
+- Reading simple Python code
+- Markdown editing basics
+- Using Copilot Chat / agent mode in your IDE
+
+If any of these are unfamiliar, review them briefly before proceeding.
+
 ## Assignment
 
 1. Review the provided `.github/copilot-instructions.md`.

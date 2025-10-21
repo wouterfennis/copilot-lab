@@ -8,6 +8,13 @@ Learn how writing tests (or test intentions) before implementation guides Copilo
 
 You will create tests for a simple C# string utility and then prompt Copilot to implement the production code to satisfy them.
 
+## Prerequisites
+
+- Basic C# syntax knowledge (classes, methods, strings)
+- xUnit (or similar) testing basics: Arrange / Act / Assert
+- Ability to run `dotnet test` locally
+- Understanding of whitespace and trimming edge cases
+
 ## Steps
 
 1. Open `src/StringToolsTests.cs`.
