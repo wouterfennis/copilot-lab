@@ -1,5 +1,12 @@
 ---
 marp: true
+title: Workshop Introduction Using GitHub Copilot for Code Quality
+description: Slide deck summarizing using GitHub Copilot for Code Quality
+paginate: true
+theme: gaia
+class:
+  - 
+  - invert
 ---
 
 # Workshop Introduction: Using GitHub Copilot for Code Quality
@@ -25,9 +32,7 @@ I'm a consultant at Info Support in Veenendaal.
 
 - Started as a student
 - .NET minor
-- 2017
-
-  <img src="./images/info%20support.webp" alt="Info Support" height="80">
+- 2017 &nbsp;&nbsp;&nbsp;&nbsp;  <img src="./images/info%20support.webp" alt="Info Support" height="80">
 
 |   <img src="./images/movir.webp" alt="Movir" height="80"> |   <img src="./images/alfam.png" alt="Alfam" height="80"> |
 |:---:|:---:|
@@ -82,7 +87,3 @@ I'm a consultant at Info Support in Veenendaal.
 # The labs
 
 <img src="./images/help.gif" alt="Saxo" height="500">
-
----
-
-Proceed to the labs for hands-on exercises.
