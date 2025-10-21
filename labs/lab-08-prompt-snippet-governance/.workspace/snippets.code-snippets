@@ -1,0 +1,32 @@
+{
+  "Plan First Parser": {
+    "scope": "plaintext,markdown",
+    "prefix": "plan-first-parser",
+    "body": [
+      "// STATUS: Needs Review",
+      "// LAST-REVIEW: 2025-10-21",
+      "Create a 5-step plan to implement the parser described in task_parser_spec.md. Do not write code yet. Identify ambiguities and edge cases." 
+    ],
+    "description": "Planning prompt for parser before implementation."
+  },
+  "Functional Refactor": {
+    "scope": "plaintext,markdown",
+    "prefix": "functional-refactor",
+    "body": [
+      "// STATUS: Active",
+      "// LAST-REVIEW: 2025-10-21",
+      "Refactor the selected code toward pure functions (no hidden mutable state). Return a unified diff + 3 bullet tradeoffs (performance, readability, testability)." 
+    ],
+    "description": "Refactors code with functional constraints."
+  },
+  "Deprecated Legacy Cleanup": {
+    "scope": "plaintext,markdown",
+    "prefix": "legacy-cleanup",
+    "body": [
+      "// STATUS: Deprecated",
+      "// LAST-REVIEW: 2025-10-21",
+      "Clean up old code now!" 
+    ],
+    "description": "Too vague; kept for deprecation demonstration."
+  }
+}
