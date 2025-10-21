@@ -1,0 +1,72 @@
+{
+  // VS Code user snippets for structured Copilot / Chat prompting
+  "Refactor Toward Functional Core": {
+    "scope": "plaintext,markdown",
+    "prefix": "copilot-functional-refactor",
+    "body": [
+      "You are refactoring toward a functional core.",
+      "Constraints:",
+      "- Pure functions, no hidden mutable state",
+      "- Functions < 25 lines",
+      "- Deterministic outputs based only on inputs",
+      "Context artifacts:",
+      "- .github/copilot-instructions.md",
+      "Task:",
+      "Refactor the selected code accordingly and return a unified diff plus 3 tradeoffs (performance, readability, testability)."
+    ],
+    "description": "Guide Copilot to refactor code using functional purity constraints."
+  },
+  "Summarize Conflicts": {
+    "scope": "plaintext,markdown",
+    "prefix": "copilot-conflicts",
+    "body": [
+      "Analyze conflicts between the functional instructions (.github/copilot-instructions.md), architecture diagram (architecture.mermaid), and current implementation (file names I provide).",
+      "Output:",
+      "1. Bullet list of each conflicting principle.",
+      "2. 3 reconciliation strategies.",
+      "3. Recommended smallest safe change.",
+      "Do not modify code yet." 
+    ],
+    "description": "Ask Copilot to detect and summarize constraint conflicts."
+  },
+  "Generate Tests First": {
+    "scope": "plaintext,markdown",
+    "prefix": "copilot-test-first",
+    "body": [
+      "Task: Generate unit tests first for the described behavior.",
+      "Behavior description:",
+      "${1:Describe behavior here}",
+      "Requirements:",
+      "- Include edge cases (null/empty, large input, unicode)",
+      "- Use clear Arrange/Act/Assert sections",
+      "- Avoid unnecessary mocking",
+      "After tests: wait for further instruction before generating implementation." 
+    ],
+    "description": "Encourages test-first development by generating tests before code."
+  },
+  "Explain Suggestion": {
+    "scope": "plaintext,markdown",
+    "prefix": "copilot-explain",
+    "body": [
+      "Explain the last suggestion in simple language:",
+      "- What it changes",
+      "- Why it is safe",
+      "- Any performance or security impact",
+      "Use short sentences." 
+    ],
+    "description": "Requests a plain-language explanation for accessibility."
+  },
+  "Performance Refactor": {
+    "scope": "plaintext,markdown",
+    "prefix": "copilot-perf",
+    "body": [
+      "Refactor this code for better performance without changing behavior.",
+      "Check:",
+      "- Algorithmic complexity",
+      "- Unnecessary allocations",
+      "- Avoid premature micro-optimizations",
+      "Return: diff + bullet summary of improvements." 
+    ],
+    "description": "Directs Copilot to focus on performance improvements safely." 
+  }
+}
