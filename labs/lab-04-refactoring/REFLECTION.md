@@ -1,12 +1,12 @@
 # Reflection (Lab 04)
 
-## Plan Summary
+## What was the consolidation plan?
 
-## Consolidation Results
+## What consolidation results did you achieve?
 
-## Prompts Used
+## Which prompts guided the refactor?
 
-## Behavior Verification
+## How did you verify behavior was preserved?
 
-## Improvement Idea
+## What is one improvement idea for future duplication removal?
 

@@ -1,12 +1,12 @@
 # Reflection (Lab 07)
 
-## Plan Summary
+## What was the final approved plan?
 
-## Plan Adjustments
+## Which adjustments were made to the plan and why?
 
-## Prompt Examples
+## Which prompts most improved plan clarity?
 
-## Edge Cases Covered
+## Which edge cases were covered and how?
 
-## Improvement Idea
+## What is one improvement idea for planning-first workflow?
 

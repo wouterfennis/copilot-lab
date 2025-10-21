@@ -1,12 +1,12 @@
 # Reflection (Lab 06)
 
-## Plan Summary
+## What was the conflict analysis plan?
 
-## Conflict Resolution Applied
+## Which conflict resolution strategy did you apply?
 
-## Prompts Used
+## Which prompts surfaced or resolved the conflicts?
 
-## Tradeoffs
+## What tradeoffs emerged from the chosen solution?
 
-## Improvement Idea
+## What is one improvement idea for handling conflicting artifacts?
 

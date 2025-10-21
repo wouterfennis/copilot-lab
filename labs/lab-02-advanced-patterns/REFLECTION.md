@@ -1,14 +1,14 @@
 # Reflection (Lab 02)
 
-## Plan Summary
+## What was the refactor plan?
 
-## Deviations from Plan
+## Which deviations from the plan occurred and why?
 
-## Prompt Iterations
+## How did your prompts evolve (examples)?
 
-## Patterns Applied
+## Which patterns did you apply and where?
 
-## Tradeoffs Observed
+## What tradeoffs did you observe (benefits vs costs)?
 
-## Improvement Idea
+## What is one improvement idea for future refactors?
 

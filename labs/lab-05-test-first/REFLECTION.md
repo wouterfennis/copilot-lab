@@ -1,12 +1,12 @@
 # Reflection (Lab 05)
 
-## Plan Summary
+## What was the test plan?
 
-## Test Coverage Achieved
+## What test coverage or breadth did you achieve?
 
-## Prompt Examples
+## Which prompts helped refine tests and implementation?
 
-## Failures & Fixes
+## Which failures occurred and how were they fixed?
 
-## Improvement Idea
+## What is one improvement idea for future test-first work?
 

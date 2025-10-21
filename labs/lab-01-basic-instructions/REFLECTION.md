@@ -1,12 +1,12 @@
 # Reflection (Lab 01)
 
-## Plan Summary
+## What was the original plan?
 
-## Changes from Original Plan
+## What changed compared to the original plan and why?
 
-## Prompt Examples
+## Which prompts did you use (list key examples)?
 
-## What Worked Well
+## What worked well and why?
 
-## Improvement Idea
+## What is one improvement idea for next time?
 

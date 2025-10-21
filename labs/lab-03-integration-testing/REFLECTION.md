@@ -1,12 +1,12 @@
 # Reflection (Lab 03)
 
-## Plan Summary
+## What was the testing plan?
 
-## Added Tests
+## Which integration tests did you add (summarize)?
 
-## Prompt Examples
+## Which prompts were most effective for test generation?
 
-## Quality Gate Results
+## What were the quality gate results (lint, coverage, CI)?
 
-## Improvement Idea
+## What is one improvement idea for strengthening tests?
 

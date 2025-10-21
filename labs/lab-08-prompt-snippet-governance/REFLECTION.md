@@ -1,12 +1,12 @@
 # Reflection (Lab 08)
 
-## Plan Summary
+## What was the governance plan?
 
-## Classification Results
+## What were the classification results (counts per category)?
 
-## Changes Applied
+## What changes or tags were applied to snippets?
 
-## Automation Ideas
+## What automation ideas could streamline governance?
 
-## Improvement Idea
+## What is one improvement idea for snippet lifecycle management?
 
