@@ -5,8 +5,8 @@ description: Slide deck summarizing using GitHub Copilot for Code Quality
 paginate: true
 theme: gaia
 class:
-  - 
   - invert
+footer: '<img src="./images/info%20support.webp" alt="Info Support" height="50">'
 ---
 
 # Workshop Introduction: Using GitHub Copilot for Code Quality
@@ -76,11 +76,13 @@ I'm a consultant at Info Support in Veenendaal.
 
 ![bg](./images/Testing-Trophy.webp)
 
-<span style="font-size: 8px">https://www.baytechconsulting.com/blog/test-pyramid-vs-testing-trophy-whats-the-difference</span>
-
 ---
 
 ![bg](./images/sonarqube.png)
+
+---
+
+![bg](./images/azuredevops.png)
 
 ---
 
@@ -98,6 +100,10 @@ I'm a consultant at Info Support in Veenendaal.
 - Code quality standards
   - `https://rules.sonarsource.com/csharp/`
   - `Roslyn Analyzers`
+
+---
+
+- MCP servers
 - AI-driven code review and refactoring
   - "Assign to CoPilot"
 
@@ -112,4 +118,10 @@ I'm a consultant at Info Support in Veenendaal.
 ---
 # The labs
 
-<img src="./images/help.gif" alt="Saxo" height="500">
+<img src="./images/help.gif" alt="Help" height="500">
+
+--- 
+
+# Sources
+
+baytechconsulting.com/blog/test-pyramid-vs-testing-trophy-whats-the-difference
