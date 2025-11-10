@@ -58,7 +58,33 @@ I'm a consultant at Info Support in Veenendaal.
 
 ---
 
-![GitHub Copilot](./images/copilot.webp)
+![bg](./images/softwarequality.png)
+
+---
+
+![bg](./images/pyramid.jpg)
+
+---
+
+![bg](./images/pyramids.jpg)
+
+---
+
+![bg](./images/Testing-Pyramid.webp)
+
+---
+
+![bg](./images/Testing-Trophy.webp)
+
+<span style="font-size: 8px">https://www.baytechconsulting.com/blog/test-pyramid-vs-testing-trophy-whats-the-difference</span>
+
+---
+
+![bg](./images/sonarqube.png)
+
+---
+
+![bg](./images/copilot.webp)
 
 ---
 
