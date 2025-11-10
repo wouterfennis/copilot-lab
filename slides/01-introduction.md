@@ -32,11 +32,9 @@ I'm a consultant at Info Support in Veenendaal.
 
 - Started as a student
 - .NET minor
-- 2017 &nbsp;&nbsp;&nbsp;&nbsp;  <img src="./images/info%20support.webp" alt="Info Support" height="80">
+- 2017 &nbsp;&nbsp;&nbsp;&nbsp; ![height:80](./images/info%20support.webp)
 
-|   <img src="./images/movir.webp" alt="Movir" height="80"> |   <img src="./images/alfam.png" alt="Alfam" height="80"> |
-|:---:|:---:|
-|   <img src="./images/nn.png" alt="NN" height="80"> |   <img src="./images/saxo.png" alt="Saxo" height="80"> |
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![height:80](./images/movir.webp)&nbsp;&nbsp;&nbsp;![height:80](./images/alfam.png)&nbsp;&nbsp;&nbsp;![height:120](./images/saxo.png)&nbsp;&nbsp;&nbsp;![height:150](./images/nn.png)
 
 ---
 
