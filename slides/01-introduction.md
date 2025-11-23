@@ -123,6 +123,16 @@ I'm a consultant at Info Support in Veenendaal.
 
 ---
 
+## Be critical
+
+- Challenge Copilot
+- Use the labs, or your own project
+- Don't rush, don't agree with the first answer you get.
+
+- Learn!
+
+---
+
 ![bg](./images/help.gif)
 
 ---
