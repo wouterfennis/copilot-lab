@@ -123,7 +123,11 @@ I'm a consultant at Info Support in Veenendaal.
 
 ---
 
-![bg](./images/github.png)
+![qr-code](./images/github.png)
+
+https://github.com/wouterfennis/copilot-lab/
+
+https://tinyurl.com/copilot-labs
 
 ---
 
