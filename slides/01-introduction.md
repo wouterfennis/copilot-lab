@@ -88,6 +88,10 @@ I'm a consultant at Info Support in Veenendaal.
 
 ---
 
+![bg](./images/contexts.png)
+
+---
+
 ![bg](./images/copilot.webp)
 
 ---
