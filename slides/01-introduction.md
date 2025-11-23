@@ -60,6 +60,10 @@ I'm a consultant at Info Support in Veenendaal.
 
 ---
 
+![bg](./images/infinite.png)
+
+---
+
 ![bg](./images/pyramid.jpg)
 
 ---
@@ -114,12 +118,15 @@ I'm a consultant at Info Support in Veenendaal.
 - Language specific extensions
 
 ---
-# The labs
 
-<img src="./images/help.gif" alt="Help" height="500">
+![bg](./images/help.gif)
 
---- 
+---
 
-# Sources
+![bg](./images/github.png)
+
+---
+
+## Sources
 
 baytechconsulting.com/blog/test-pyramid-vs-testing-trophy-whats-the-difference
