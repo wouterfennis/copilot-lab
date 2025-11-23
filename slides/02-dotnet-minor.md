@@ -51,9 +51,3 @@ After completion you can:
 ![GitHub Copilot](./images/link-minor.png)
 
 https://carriere.infosupport.com/it-minor/building-complex-cloud-based-systems-with-net/
-
----
-
-## Attribution & Disclaimer
-
-Content paraphrased from publicly available program description; verify dates, codes, and schedule on the official site for accuracy. This deck is an educational summary and not an official document.
