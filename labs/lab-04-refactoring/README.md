@@ -28,6 +28,10 @@ A PowerShell script contains repeated blocks that manipulate strings and write o
 4. Ask: "Add comment-based help and parameter validation.".
 5. (Optional) Create a Pester test file to validate refactored function.
 
+**How to prevent this duplicated logic in the future?**
+
+**Would documentation/guidelines help? Where to put them?**
+
 ## Prompts to Try
 
 - "Refactor duplication into one function; keep output format identical."

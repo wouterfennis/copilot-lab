@@ -4,7 +4,7 @@ This lab focuses on enforcing advanced code quality patterns and refactoring tec
 
 ## Scenario
 
-You are given a codebase with duplicated logic, missing error handling, and inconsistent use of classes. The instruction file documents advanced patterns and refactoring rules.
+You are given a codebase with duplicated logic, missing error handling, and inconsistent use of classes.
 
 ## Prerequisites
 
@@ -17,14 +17,21 @@ Recommended background before starting:
 
 ## Assignment
 
-1. Review `.github/copilot-instructions.md` for advanced standards.
-2. Use Copilot agent mode to:
+1. Use Copilot agent mode to:
    - Refactor duplicated code into reusable functions/classes
    - Add robust error handling
    - Apply design patterns (e.g., Factory, Singleton)
    - Improve test coverage
-3. Update the instruction file with new patterns as needed.
-4. Reflect: How did Copilot handle complex refactoring tasks?
+2. Update the instruction file with new patterns as needed.
+3. Reflect: How did Copilot handle complex refactoring tasks?
+
+**In what kind of document would you place desisions which patterns are preferred?**
+
+**What are 'good' patterns?**
+
+**Add a `.github/copilot-instructions.md` file containing a list of patterns that can be used.**
+
+**Let Copilot create the plan again, what changed?**
 
 ## Files
 

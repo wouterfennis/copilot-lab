@@ -4,7 +4,7 @@ This lab demonstrates how a simple instruction file can guide Copilot to improve
 
 ## Scenario
 
-You are given a small codebase with inconsistent formatting and missing documentation. The project uses a custom instruction file to enforce standards.
+You are given a small codebase with inconsistent formatting and missing documentation.
 
 ## Prerequisites
 
@@ -19,13 +19,18 @@ If any of these are unfamiliar, review them briefly before proceeding.
 
 ## Assignment
 
-1. Review the provided `.github/copilot-instructions.md`.
+1. Review the provided .
 2. Use Copilot agent mode to:
    - Refactor code to match the documented standards
    - Add missing docstrings/comments
    - Fix formatting issues
-3. Update the instruction file to address any gaps you discover.
+3. Consider adding a instruction file `.github/copilot-instructions.md` to address any gaps you discover.
 4. Reflect: How did the instructions affect Copilot's suggestions?
+
+**Should some parts of this plan be stored in a instruction file for future use?**
+**Ask Copilot to demonstrate how such file would look like.**
+
+**Can you retry the exercise with the instruction file already in place? Did the results get better?**
 
 ## Files
 

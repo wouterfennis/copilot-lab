@@ -26,6 +26,10 @@ Use Copilot Chat to:
 3. Implement one small change showing a chosen strategy (e.g., remove mutable static cache or justify keeping it with patterns).
 4. Generate a diff and explanation referencing which constraints you honored or changed.
 
+**Does Copilot detect that there are differences in instructions/context how the project should work?**
+
+**How can we remediate, to align all instructions?**
+
 ## Suggested Prompts
 
 - "List conflicting principles between `.github/copilot-instructions.md`, `architecture.mermaid`, and `src/HybridCache.cs`."

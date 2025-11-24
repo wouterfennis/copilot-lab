@@ -53,7 +53,8 @@ Example:
 3. Copy output into `PLAN.md` and refine with prompts #2 and #3.
 4. Only after plan stabilization, run prompt #4.
 5. Verify output (manually or with quick test run if added).
-6. Run prompt #5 and save answer in `REFLECTION.md`.
+
+**Can this workflow be documented for the next developer working on a new feature?**
 
 ## Extension
 

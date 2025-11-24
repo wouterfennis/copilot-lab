@@ -7,6 +7,7 @@ Learn how writing tests (or test intentions) before implementation guides Copilo
 ## Scenario
 
 You will create tests for a simple C# string utility and then prompt Copilot to implement the production code to satisfy them.
+How can we change the default behavior for new features to follow a test-first approach or Test Driven Development?
 
 ## Prerequisites
 
@@ -23,6 +24,12 @@ You will create tests for a simple C# string utility and then prompt Copilot to 
 4. Refine tests (naming, clarity).
 5. Prompt: "Generate the `StringTools` class so all tests pass; avoid regex unless needed.".
 6. Run tests; iterate with Copilot for any failures.
+7. How can a test-first approach be documented for future features?
+
+**We want to work 'test-first' or Test Driven Development in this lab. Ask Copilot how this specific workflow can be enforced in this project?**
+
+**With the enforcement in place, if you ask Copilot to add a feature in a new Copilot session. Is the TDD workflow being followed?**
+
 
 ## Prompts to Try
 
