@@ -109,6 +109,23 @@ I'm a consultant at Info Support in Veenendaal.
 
 ---
 
+## Copilot Instruction Files
+
+Tell Copilot how *you* want to work:
+
+- **`.github/copilot-instructions.md`** – workspace-wide rules
+- **Per-folder** instructions (e.g., `src/.copilot-instructions.md`)
+- **Format**: plain markdown, bullet lists, code examples
+
+**Example snippet:**
+```markdown
+## Style
+- The domain language should be Dutch
+- Keep functions < 25 lines
+```
+
+---
+
 - MCP servers
 - AI-driven code review and refactoring
   - "Assign to CoPilot"
