@@ -42,6 +42,11 @@ Focus: Ask for a plan before any code; refine then implement.
 Path: ../labs/lab-08-prompt-snippet-governance/  
 Focus: Shared snippet lifecycle (Active / Needs Review / Deprecated).
 
+## Lab 09 – Governance Battle
+
+Path: ../labs/lab-09-governance-battle/  
+Focus: Collaborative challenge between Architect (writes governance) and Rebel Developers (work around it).
+
 ---
 
 ### How to Use

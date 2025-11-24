@@ -150,6 +150,13 @@ Tell Copilot how *you* want to work:
 
 ---
 
+## Labs
+
+- 1 -> 8, step by step introduction
+- 9, Goverance Battle
+
+---
+
 ![bg](./images/help.gif)
 
 ---
