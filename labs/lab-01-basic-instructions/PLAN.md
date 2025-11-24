@@ -12,4 +12,3 @@ Expected sections Copilot should produce:
 Paste Copilot's plan below:
 
 ---
-
