@@ -84,6 +84,33 @@ I'm a consultant at Info Support in Veenendaal.
 
 ---
 
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+  <img src="./images/clean-code.jpg" alt="clean-code" style="height: 400px;">
+  <img src="./images/ddd.jpg" alt="ddd" style="height: 400px;">
+</div>
+
+---
+
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+  <img src="./images/cost-analysis.png" alt="cost">
+</div>
+
+---
+
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+  <img src="./images/missing-indexes.png" alt="indexes">
+  <img src="./images/incidents.png" alt="incidents">
+  <img src="./images/velocity.jpg" alt="velocity">
+</div>
+
+- Quality is not just 'one' thing
+- Different skills are required
+- Gen AI can help, but can't replace expertise 
+<br>
+- Or can it?
+
+---
+
 ![bg](./images/azuredevops.png)
 
 ---
