@@ -1,6 +1,6 @@
 ---
 marp: true
-title: Workshop Introduction Using GitHub Copilot for Code Quality
+title: Workshop Write Quality Software with and by GitHub Copilot 
 description: Slide deck summarizing using GitHub Copilot for Code Quality
 paginate: true
 theme: gaia
@@ -9,10 +9,7 @@ class:
 footer: '<img src="./images/info%20support.webp" alt="Info Support" height="50">'
 ---
 
-# Workshop Introduction: Using GitHub Copilot for Code Quality
-
-Enjoy the workshop!
-Welcome to the workshop on practical use of GitHub Copilot in agent mode!
+# Workshop Write Quality Software with and by GitHub Copilot 
 
 ---
 
@@ -31,7 +28,7 @@ CI/CD, and architecture
 I'm a consultant at Info Support in Veenendaal.
 
 - Started as a student
-- .NET minor
+- .NET minor / Devops minor
 - 2017 &nbsp;&nbsp;&nbsp;&nbsp; ![height:80](./images/info%20support.webp)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![height:80](./images/movir.webp)&nbsp;&nbsp;&nbsp;![height:80](./images/alfam.png)&nbsp;&nbsp;&nbsp;![height:120](./images/saxo.png)&nbsp;&nbsp;&nbsp;![height:150](./images/nn.png)
